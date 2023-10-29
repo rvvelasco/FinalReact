@@ -1,0 +1,5 @@
+Buenas ! 
+
+Este proyecto es un Ecommerce en react , utliza la base de datos de firebase (firestone) , cuenta con un nav var , un carrito de compras que te indica cuantos productos hay dentro de el en tiempo real, cuando hay varios productos te dice los precios por separado y luego el total de la compra, y por ultimo está el boton de checkout que le pide al usuario que ingrese sus datos para su numero de orden.
+
+Datos a tener en cuenta: tuve muchos inconvenientes a la hora de conectarme con firebase, por alguna razon mi codigo no queria acceder a firebase y no me mostraba nada , despues de un rato lo mostró todo sin yo hacer ningun cambio , tengo la impresion de que es un problema al inicar el npm, porque de a ratos pasaba , en este momento carga todo y de ser ese el caso cuando lo corrijan les deberia aparecer todo bien ( eso espero), de no ser el caso ,espero aunque sea la respuesta de donde puede estar el error, Desde ya muchas gracias muy buen curso.

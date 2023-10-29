@@ -1,0 +1,23 @@
+#productosImg{
+    height: 250px;
+    width: 300px;
+}
+
+.contenido{
+    justify-content: center;
+    text-align: center;
+}
+
+.ItemHeader{
+    font-size: 30px;
+}
+
+footer a{
+    border: 2px solid black;
+    border-radius: 10px;
+    padding: 6px;
+    background-color: blue;
+    color: white;
+    font-size: 18px;
+    font-weight: bold;
+}
